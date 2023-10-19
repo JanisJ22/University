@@ -1,3 +1,3 @@
 # University
 
-Some codes that I want to submit through a link
+Some codes I want to submit through a link.
